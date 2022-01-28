@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Wonski312
+- 👋 Hi, I’m S.Marcisz
 - 👀 I’m interested in Front-end development
 - 🌱 I’m currently learning Java Script
 - 💞️ I’m looking to collaborate on ...
