@@ -1,7 +1,7 @@
-- 👋 Hi, I’m S.Marcisz
-- 👀 I’m interested in Front-end development
-- 🌱 I’m currently learning Java Script
-- 💞️ I’m looking to collaborate on ...
+- 👋 Hi, I’m Stanislaw Marcisz
+- 👀 I’m interested in Front-end development, self taught developer with technical IT education background.
+- 🌱 I’m currently learning Java Script and React. 
+- 💞️ I’m looking to collaborate with others.
 - 📫 Have a look on my portfolio or contact me on smarciszedu@gmail.com
 
 <!---
